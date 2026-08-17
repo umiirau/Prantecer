@@ -1,0 +1,3 @@
+C:\Users\alexa\Desktop\Apps\Prantecer_v3\bin\Release\net8.0\win-x64\publish\Prantecer.pdb
+C:\Users\alexa\Desktop\Apps\Prantecer_v3\bin\Release\net8.0\win-x64\publish\icon.ico
+C:\Users\alexa\Desktop\Apps\Prantecer_v3\bin\Release\net8.0\win-x64\publish\Prantecer.exe
